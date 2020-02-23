@@ -18,7 +18,7 @@ import argparse
 
 #connection_string = "127.0.0.1:14550"
 #connection_string = '0.0.0.0:14550'
-connection_string = 'tcp:127.0.0.1:14550'
+connection_string = 'udp:192.168.4.15:14550'
 groundSpeed = 1
 
 # Connect to the Vehicle

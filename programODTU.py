@@ -17,8 +17,8 @@ import time
 import argparse  
 
 #connection_string = "127.0.0.1:14550"
-#connection_string = '0.0.0.0:14550'
-connection_string = 'tcp:127.0.0.1:14550'
+connection_string = '0.0.0.0:14550'
+#connection_string = 'tcp:127.0.0.1:14550'
 groundSpeed = 2.5
 
 # Connect to the Vehicle
